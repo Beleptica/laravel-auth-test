@@ -63,7 +63,7 @@ A minimal Laravel app where an **administrator can impersonate a user by usernam
 
 ## UI Notes
 
-- Guest pages show a top-right switcher: **Log in / Register**.
+- Guest pages show a top switcher: **Log in / Register**.
 - Minimal Blade views only.
 
 ## Quick Start (Docker + MySQL)
